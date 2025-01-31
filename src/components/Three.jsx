@@ -15,8 +15,36 @@ const Models = [
   // { title: 'antorcha2', url: './antorcha2.glb', miEscala: .5, miPosicion: -0.3 },
   // { title: 'antorcha1', url: './antorcha1.glb', miEscala: .5, miPosicion: -0.3 },
   // { title: '1g0004', url: './1g0004.glb', miEscala: .6, miPosicion: .0 },
+  // {
+  //   title: 'CANARA', url: './CANARA.glb', miEscala: .5
+  //   , miPosicion: -.0
+  // },
   {
-    title: 'CANARA', url: './CANARA.glb', miEscala: .5
+    title: 'CANARA1', url: './CANARA1.glb', miEscala: .5
+    , miPosicion: -.0
+  },
+  {
+    title: 'CANARA2', url: './CANARA2.glb', miEscala: .5
+    , miPosicion: -.0
+  },
+  {
+    title: 'CANARA3', url: './CANARA3.glb', miEscala: .5
+    , miPosicion: -.0
+  },
+  {
+    title: 'CANARA4', url: './CANARA4.glb', miEscala: .5
+    , miPosicion: -.0
+  },
+  {
+    title: 'CANARA5', url: './CANARA5.glb', miEscala: .5
+    , miPosicion: -.0
+  },
+  {
+    title: 'CANARA6', url: './CANARA6.glb', miEscala: .5
+    , miPosicion: -.0
+  },
+  {
+    title: 'CANARA7', url: './CANARA7.glb', miEscala: .5
     , miPosicion: -.0
   },
 
